@@ -98,7 +98,7 @@
             "soulBurn": 0,
             "selfSkillBarValue": 0,
             "soulBurnEffect": "",
-            "awakenUpgrade": true,
+            "awakenUpgrade": false,
             "cooldown": 0,
             "name": "Steady Aim",
             "soulAcquire": 1,
