@@ -141,7 +141,7 @@
                 },
                 {
                     "description": "+10% effect chance",
-                    "resources": [{ "item": "", "qty": 0 }]
+                    "resources": [{ "item": "ring-of-glory", "qty": 1 }, { "item": "molagora", "qty": 3 }, { "item": "gold", "qty": 17000 }]
                 },
                 {
                     "description": "+10% effect chance",
