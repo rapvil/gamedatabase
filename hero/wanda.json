@@ -149,7 +149,7 @@
                 },
                 {
                     "description": "+5% damage dealt",
-                    "resources": [{ "item": "", "qty": 0 }]
+                    "resources": [{ "item": "ring-of-glory", "qty": 4 }, { "item": "molagorago", "qty": 1 }, { "item": "gold", "qty": 40000 }]
                 },
                 {
                     "description": "+5% damage dealt",
