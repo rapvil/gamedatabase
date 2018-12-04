@@ -137,7 +137,7 @@
                 },
                 {
                     "description": "+5% damage dealt",
-                    "resources": [{ "item": "", "qty": 0 }]
+                    "resources": [{ "item": "molagora", "qty": 2 }, { "item": "gold", "qty": 8000 }]
                 },
                 {
                     "description": "+10% effect chance",
