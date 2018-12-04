@@ -125,7 +125,7 @@
             "soulBurn": 20,
             "selfSkillBarValue": 0,
             "soulBurnEffect": "Ignores effect resistance.",
-            "awakenUpgrade": false,
+            "awakenUpgrade": true,
             "cooldown": 4,
             "name": "Fatal Shot",
             "soulAcquire": 2,
