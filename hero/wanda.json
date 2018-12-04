@@ -101,7 +101,7 @@
             "awakenUpgrade": false,
             "cooldown": 0,
             "name": "Steady Aim",
-            "soulAcquire": 1,
+            "soulAcquire": 0,
             "description": "Has a 80% chance to target a random enemy for 2 turns at the beginning of each turn.",
             "enhancement": [
                 {
