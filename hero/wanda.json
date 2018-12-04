@@ -145,7 +145,7 @@
                 },
                 {
                     "description": "+10% effect chance",
-                    "resources": [{ "item": "", "qty": 0 }]
+                    "resources": [{ "item": "ring-of-glory", "qty": 2 }, { "item": "molagora", "qty": 5 }, { "item": "gold", "qty": 30000 }]
                 },
                 {
                     "description": "+5% damage dealt",
